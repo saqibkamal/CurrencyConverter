@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="npr_to_inr">NPR TO INR</string>
+    <string name="enter_nepali_rupee">Enter Nepali Rupee</string>
+    <string name="convert">Convert</string>
+    <string name="enter_indian_rupee">Enter Indian Rupee</string>
+    <string name="enter_indian_rupee1">Enter Indian Rupee</string>
+    <string name="convert1">Convert</string>
+    <string name="inr_to_npr">INR TO NPR :</string>
+</resources>
